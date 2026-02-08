@@ -28,3 +28,6 @@ From the project folder:
 
 ```bash
 python3 -m http.server 8000
+
+canva link
+https://www.canva.com/design/DAHAuvpVNgY/Icch9DZQiLIelEfGk5CHyw/edit?utm_content=DAHAuvpVNgY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
